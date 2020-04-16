@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L canadian_parts:KEYSW K1
+L 6col-rescue:KEYSW-canadian_parts K1
 U 1 1 588E249B
 P 2300 1950
 F 0 "K1" H 2250 1950 60  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 2300 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D2
+L 6col-rescue:D-Device D2
 U 1 1 588E259A
 P 2800 2200
 F 0 "D2" H 2800 2300 50  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 2800 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K2
+L 6col-rescue:KEYSW-canadian_parts K2
 U 1 1 588E266D
 P 3200 1950
 F 0 "K2" H 3150 1950 60  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 3200 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K3
+L 6col-rescue:KEYSW-canadian_parts K3
 U 1 1 588E26B1
 P 4100 1950
 F 0 "K3" H 4050 1950 60  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "" H 4100 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K4
+L 6col-rescue:KEYSW-canadian_parts K4
 U 1 1 588E271C
 P 5000 1950
 F 0 "K4" H 4950 1950 60  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "" H 5000 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D1
+L 6col-rescue:D-Device D1
 U 1 1 588E27E6
 P 1900 2200
 F 0 "D1" H 1900 2300 50  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "" H 1900 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D3
+L 6col-rescue:D-Device D3
 U 1 1 588E28C6
 P 3700 2200
 F 0 "D3" H 3700 2300 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 3700 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D4
+L 6col-rescue:D-Device D4
 U 1 1 588E2919
 P 4600 2200
 F 0 "D4" H 4600 2300 50  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 4600 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K7
+L 6col-rescue:KEYSW-canadian_parts K7
 U 1 1 588E2B6A
 P 2300 2550
 F 0 "K7" H 2250 2550 60  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 2300 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D8
+L 6col-rescue:D-Device D8
 U 1 1 588E2B70
 P 2800 2800
 F 0 "D8" H 2800 2900 50  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 2800 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K8
+L 6col-rescue:KEYSW-canadian_parts K8
 U 1 1 588E2B76
 P 3200 2550
 F 0 "K8" H 3150 2550 60  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 3200 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K9
+L 6col-rescue:KEYSW-canadian_parts K9
 U 1 1 588E2B7C
 P 4100 2550
 F 0 "K9" H 4050 2550 60  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 4100 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K10
+L 6col-rescue:KEYSW-canadian_parts K10
 U 1 1 588E2B82
 P 5000 2550
 F 0 "K10" H 4950 2550 60  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 5000 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D7
+L 6col-rescue:D-Device D7
 U 1 1 588E2B8E
 P 1900 2800
 F 0 "D7" H 1900 2900 50  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 1900 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D9
+L 6col-rescue:D-Device D9
 U 1 1 588E2B94
 P 3700 2800
 F 0 "D9" H 3700 2900 50  0000 C CNN
@@ -179,7 +179,7 @@ F 3 "" H 3700 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K13
+L 6col-rescue:KEYSW-canadian_parts K13
 U 1 1 588E2DFE
 P 2300 3150
 F 0 "K13" H 2250 3150 60  0000 C CNN
@@ -190,7 +190,7 @@ F 3 "" H 2300 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D14
+L 6col-rescue:D-Device D14
 U 1 1 588E2E04
 P 2800 3400
 F 0 "D14" H 2800 3500 50  0000 C CNN
@@ -201,7 +201,7 @@ F 3 "" H 2800 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K14
+L 6col-rescue:KEYSW-canadian_parts K14
 U 1 1 588E2E0A
 P 3200 3150
 F 0 "K14" H 3150 3150 60  0000 C CNN
@@ -212,7 +212,7 @@ F 3 "" H 3200 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K15
+L 6col-rescue:KEYSW-canadian_parts K15
 U 1 1 588E2E10
 P 4100 3150
 F 0 "K15" H 4050 3150 60  0000 C CNN
@@ -223,7 +223,7 @@ F 3 "" H 4100 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:KEYSW K16
+L 6col-rescue:KEYSW-canadian_parts K16
 U 1 1 588E2E16
 P 5000 3150
 F 0 "K16" H 4950 3150 60  0000 C CNN
@@ -234,7 +234,7 @@ F 3 "" H 5000 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D15
+L 6col-rescue:D-Device D15
 U 1 1 588E2E28
 P 3700 3400
 F 0 "D15" H 3700 3500 50  0000 C CNN
@@ -245,7 +245,7 @@ F 3 "" H 3700 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D16
+L 6col-rescue:D-Device D16
 U 1 1 588E2E2E
 P 4600 3400
 F 0 "D16" H 4600 3500 50  0000 C CNN
@@ -256,7 +256,7 @@ F 3 "" H 4600 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K19
+L 6col-rescue:KEYSW-canadian_parts K19
 U 1 1 588E314C
 P 5000 3750
 F 0 "K19" H 4950 3750 60  0000 C CNN
@@ -267,7 +267,7 @@ F 3 "" H 5000 3750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D19
+L 6col-rescue:D-Device D19
 U 1 1 588E315E
 P 4600 4000
 F 0 "D19" H 4600 4100 50  0000 C CNN
@@ -278,7 +278,7 @@ F 3 "" H 4600 4000 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:SOLDER_JUMPER_3 SJ2
+L 6col-rescue:SOLDER_JUMPER_3-canadian_parts SJ2
 U 1 1 588E8D2F
 P 7900 2300
 F 0 "SJ2" H 7850 2250 60  0000 C CNN
@@ -289,7 +289,7 @@ F 3 "" H 7950 2300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:SOLDER_JUMPER_3 SJ1
+L 6col-rescue:SOLDER_JUMPER_3-canadian_parts SJ1
 U 1 1 588E912F
 P 8450 1850
 F 0 "SJ1" H 8400 1800 60  0000 C CNN
@@ -300,7 +300,7 @@ F 3 "" H 8500 1850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR01
+L 6col-rescue:GND-power #PWR01
 U 1 1 588EB154
 P 8700 1800
 F 0 "#PWR01" H 8700 1550 50  0001 C CNN
@@ -311,7 +311,7 @@ F 3 "" H 8700 1800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR02
+L 6col-rescue:GND-power #PWR02
 U 1 1 588EB1B8
 P 8150 2250
 F 0 "#PWR02" H 8150 2000 50  0001 C CNN
@@ -322,7 +322,7 @@ F 3 "" H 8150 2250 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR03
+L 6col-rescue:GND-power #PWR03
 U 1 1 588EB71C
 P 8800 4400
 F 0 "#PWR03" H 8800 4150 50  0001 C CNN
@@ -333,7 +333,7 @@ F 3 "" H 8800 4400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR04
+L 6col-rescue:GND-power #PWR04
 U 1 1 588EB780
 P 7800 4600
 F 0 "#PWR04" H 7800 4350 50  0001 C CNN
@@ -344,7 +344,7 @@ F 3 "" H 7800 4600 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR05
+L 6col-rescue:GND-power #PWR05
 U 1 1 588EB7E4
 P 7800 4500
 F 0 "#PWR05" H 7800 4250 50  0001 C CNN
@@ -355,7 +355,7 @@ F 3 "" H 7800 4500 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR06
+L 6col-rescue:VCC-power #PWR06
 U 1 1 588EB848
 P 8800 4600
 F 0 "#PWR06" H 8800 4450 50  0001 C CNN
@@ -366,7 +366,7 @@ F 3 "" H 8800 4600 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR07
+L 6col-rescue:VCC-power #PWR07
 U 1 1 588EBC1C
 P 8350 1800
 F 0 "#PWR07" H 8350 1650 50  0001 C CNN
@@ -377,7 +377,7 @@ F 3 "" H 8350 1800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:VCC #PWR08
+L 6col-rescue:VCC-power #PWR08
 U 1 1 588EBC80
 P 7800 2250
 F 0 "#PWR08" H 7800 2100 50  0001 C CNN
@@ -392,7 +392,7 @@ data
 Text Label 7700 4800 2    60   ~ 0
 data
 $Comp
-L keyboard_parts:SW_PUSH RESET1
+L 6col-rescue:SW_PUSH-keyboard_parts RESET1
 U 1 1 588F2D74
 P 9400 4500
 F 0 "RESET1" H 9550 4610 50  0000 C CNN
@@ -403,7 +403,7 @@ F 3 "" H 9400 4500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR09
+L 6col-rescue:GND-power #PWR09
 U 1 1 588F2E25
 P 9700 4500
 F 0 "#PWR09" H 9700 4250 50  0001 C CNN
@@ -414,7 +414,7 @@ F 3 "" H 9700 4500 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D13
+L 6col-rescue:D-Device D13
 U 1 1 588E2E22
 P 1900 3400
 F 0 "D13" H 1900 3500 50  0000 C CNN
@@ -425,7 +425,7 @@ F 3 "" H 1900 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D10
+L 6col-rescue:D-Device D10
 U 1 1 588E2B9A
 P 4600 2800
 F 0 "D10" H 4600 2900 50  0000 C CNN
@@ -436,7 +436,7 @@ F 3 "" H 4600 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D20
+L 6col-rescue:D-Device D20
 U 1 1 588E3164
 P 5500 4000
 F 0 "D20" H 5500 4100 50  0000 C CNN
@@ -447,7 +447,7 @@ F 3 "" H 5500 4000 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K20
+L 6col-rescue:KEYSW-canadian_parts K20
 U 1 1 588E3152
 P 5900 3750
 F 0 "K20" H 5850 3750 60  0000 C CNN
@@ -458,7 +458,7 @@ F 3 "" H 5900 3750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D17
+L 6col-rescue:D-Device D17
 U 1 1 588E2E34
 P 5500 3400
 F 0 "D17" H 5500 3500 50  0000 C CNN
@@ -469,7 +469,7 @@ F 3 "" H 5500 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K17
+L 6col-rescue:KEYSW-canadian_parts K17
 U 1 1 588E2E1C
 P 5900 3150
 F 0 "K17" H 5850 3150 60  0000 C CNN
@@ -480,7 +480,7 @@ F 3 "" H 5900 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D11
+L 6col-rescue:D-Device D11
 U 1 1 588E2BA0
 P 5500 2800
 F 0 "D11" H 5500 2900 50  0000 C CNN
@@ -491,7 +491,7 @@ F 3 "" H 5500 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K11
+L 6col-rescue:KEYSW-canadian_parts K11
 U 1 1 588E2B88
 P 5900 2550
 F 0 "K11" H 5850 2550 60  0000 C CNN
@@ -502,7 +502,7 @@ F 3 "" H 5900 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D5
+L 6col-rescue:D-Device D5
 U 1 1 588E2967
 P 5500 2200
 F 0 "D5" H 5500 2300 50  0000 C CNN
@@ -513,7 +513,7 @@ F 3 "" H 5500 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K5
+L 6col-rescue:KEYSW-canadian_parts K5
 U 1 1 588E275E
 P 5900 1950
 F 0 "K5" H 5850 1950 60  0000 C CNN
@@ -524,7 +524,7 @@ F 3 "" H 5900 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D21
+L 6col-rescue:D-Device D21
 U 1 1 5E2DC50C
 P 6450 4000
 F 0 "D21" H 6450 4100 50  0000 C CNN
@@ -535,7 +535,7 @@ F 3 "" H 6450 4000 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K21
+L 6col-rescue:KEYSW-canadian_parts K21
 U 1 1 5E2DC512
 P 6850 3750
 F 0 "K21" H 6800 3750 60  0000 C CNN
@@ -546,7 +546,7 @@ F 3 "" H 6850 3750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D18
+L 6col-rescue:D-Device D18
 U 1 1 5E2DC518
 P 6450 3400
 F 0 "D18" H 6450 3500 50  0000 C CNN
@@ -557,7 +557,7 @@ F 3 "" H 6450 3400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K18
+L 6col-rescue:KEYSW-canadian_parts K18
 U 1 1 5E2DC51E
 P 6850 3150
 F 0 "K18" H 6800 3150 60  0000 C CNN
@@ -568,7 +568,7 @@ F 3 "" H 6850 3150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D12
+L 6col-rescue:D-Device D12
 U 1 1 5E2DC524
 P 6450 2800
 F 0 "D12" H 6450 2900 50  0000 C CNN
@@ -579,7 +579,7 @@ F 3 "" H 6450 2800 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K12
+L 6col-rescue:KEYSW-canadian_parts K12
 U 1 1 5E2DC52A
 P 6850 2550
 F 0 "K12" H 6800 2550 60  0000 C CNN
@@ -590,7 +590,7 @@ F 3 "" H 6850 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D6
+L 6col-rescue:D-Device D6
 U 1 1 5E2DC530
 P 6450 2200
 F 0 "D6" H 6450 2300 50  0000 C CNN
@@ -601,7 +601,7 @@ F 3 "" H 6450 2200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L canadian_parts:KEYSW K6
+L 6col-rescue:KEYSW-canadian_parts K6
 U 1 1 5E2DC536
 P 6850 1950
 F 0 "K6" H 6800 1950 60  0000 C CNN
@@ -612,7 +612,7 @@ F 3 "" H 6850 1950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L canadian_parts:TRRS_Through-Hole K22
+L 6col-rescue:TRRS_Through-Hole-canadian_parts K22
 U 1 1 588E654E
 P 8550 2450
 F 0 "K22" H 8700 2700 50  0000 C CNN
@@ -623,7 +623,7 @@ F 3 "" H 8550 2450 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ProMicro:ProMicro U1
+L 6col-rescue:ProMicro-ProMicro U1
 U 1 1 588E2344
 P 8300 4650
 F 0 "U1" H 8300 3800 60  0000 C CNN
